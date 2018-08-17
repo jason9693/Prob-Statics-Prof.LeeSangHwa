@@ -14,6 +14,9 @@
 
 4) Total Prob
     P(A) = P( A1 ∩ A ) + P( A2 ∩ A ) + ... + P(An ∩ A)
+    
         {A1, A2, A3, ... , An} : Partition of S
+        
     -> P(A1) = P( A | A1 ) x P( A1 )
+    
     ∴ P(A) = ΣP( A| Ak ) x P(Ak)
