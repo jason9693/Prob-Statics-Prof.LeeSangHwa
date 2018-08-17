@@ -20,4 +20,4 @@
         
     -> P(A1) = P( A | A1 ) x P( A1 )
     
-    ∴ P(A) = ΣP( A| Ak ) x P(Ak)
+    ∴ P(A) = Σ P( A| Ak ) x P( Ak )
