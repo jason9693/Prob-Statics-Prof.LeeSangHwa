@@ -21,3 +21,13 @@
     -> P(A1) = P( A | A1 ) x P( A1 )
     
     ∴ P(A) = Σ P( A| Ak ) x P( Ak )
+
+5) Bayesian Theorem
+
+    P( A | B ) = P( B | A ) / P( A ) = P( A | B ) x P(B) / P(A)
+
+    P( A | B ) = P( B ∩ A ) / P( B )
+
+        ex) P( Ai | A ) = P( A | Ai ) x P( Ai )
+
+            cf) Ai : Unknown Input, A : Observation ( output )
