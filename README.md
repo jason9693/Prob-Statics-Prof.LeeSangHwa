@@ -4,7 +4,8 @@
 
 1) sample space -> S(set)
 2) Event(A) : A ⊂ S
-3) Conditional Prob ( 조건부 확률 ):\n
+3) Conditional Prob ( 조건부 확률 ):
+    
     P( B | A ) = P( A ∩ B ) / P(A)
                = P( A ∩ B | S) / P( A | S )
 
