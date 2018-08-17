@@ -31,3 +31,10 @@
         ex) P( Ai | A ) = P( A | Ai ) x P( Ai )
 
             cf) Ai : Unknown Input, A : Observation ( output )
+
+        ex1) Binary Symmetric Channel
+
+            input symbols : {x1, x2} -> 송신기
+
+            output symbols : {y1, y2} -> 수신기
+
