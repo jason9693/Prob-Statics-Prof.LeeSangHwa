@@ -13,6 +13,7 @@
     -> 어제날씨 : 전제.  즉, P(목적 | 전제) 형태
 
 4) Total Prob
+    
     P(A) = P( A1 ∩ A ) + P( A2 ∩ A ) + ... + P(An ∩ A)
     
         {A1, A2, A3, ... , An} : Partition of S
